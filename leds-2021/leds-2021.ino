@@ -13,7 +13,7 @@
 #define LASER_POWERED2  0x96A055
 #define LASER_POWERED3  0xD8D085
 
-
+#define CYCLE
 
 #define BRIGHTNESS      0.35
 
